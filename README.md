@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">I am a computer science student at the University of North Florida. I am an aspiring software engineer.</h3>
 
-- 🔭 I’m currently working on **on building a 2d game.**
+- 🔭 
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning react**
 
 - 📫 How to reach me **Jamestngo02@gmail.com**
 
